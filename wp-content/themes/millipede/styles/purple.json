@@ -1,0 +1,94 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Purple",
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "primary",
+          "color": "#8D0FCC",
+          "name": "Primary"
+        },
+        {
+          "slug": "secondary",
+          "color": "#EB7000",
+          "name": "Secondary"
+        },
+        {
+          "slug": "background",
+          "color": "#FFFFFF",
+          "name": "Background"
+        },
+        {
+          "slug": "background-alt",
+          "color": "#F8F2FB",
+          "name": "Background Alternative"
+        },
+        {
+          "slug": "dark-color",
+          "color": "#021614",
+          "name": "Dark Color"
+        },
+        {
+          "slug": "meta-color",
+          "color": "#A5ACAD",
+          "name": "Meta Color"
+        },
+        {
+          "slug": "foreground",
+          "color": "#646363",
+          "name": "Foreground"
+        },
+        {
+          "slug": "foreground-alt",
+          "color": "#BFC0C0",
+          "name": "Foreground-alt"
+        },
+        {
+          "slug": "light-color",
+          "color": "#FFFFFE",
+          "name": "Light Color"
+        },
+        {
+          "slug": "heading-color",
+          "color": "#021612",
+          "name": "Heading Color"
+        },
+        {
+          "slug": "border-color",
+          "color": "#EFE1F6",
+          "name": "Border Color"
+        },
+
+        {
+          "color": "#ffffff00",
+          "name": "Transparent",
+          "slug": "transparent"
+        }
+      ],
+      "duotone": [
+        {
+          "colors": ["#CC01FF", "#ffffff"],
+          "slug": "primary-white",
+          "name": "Primary White"
+        },
+        {
+          "colors": ["#ffffff", "#CC01FF"],
+          "slug": "white-primary",
+          "name": "White Primary"
+        },
+        {
+          "colors": ["#CC01FF", "#202020"],
+          "slug": "primary-dark",
+          "name": "Primary Dark"
+        },
+        {
+          "colors": ["#202020", "#CC01FF"],
+          "slug": "dark-primary",
+          "name": "Dark Primary"
+        }
+      ]
+    }
+  }
+}

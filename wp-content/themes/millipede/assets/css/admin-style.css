@@ -1,0 +1,220 @@
+.millipede-admin-notice {
+  padding: 24px;
+}
+.millipede-admin-notice .info-content h5 {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #2271b1;
+}
+.millipede-admin-notice .info-content h1 {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 35px;
+  text-transform: capitalize;
+  margin: 10px 0 !important;
+}
+.millipede-admin-notice #install-activate-button {
+  background-color: #2271b1;
+  color: #fff;
+}
+.millipede-admin-notice #install-activate-button:hover,
+.millipede-admin-notice .button.admin-button.info-button:hover {
+  background: #135e96;
+  border-color: #135e96;
+  color: #fff;
+}
+.millipede-admin-notice .button.admin-button.info-button {
+  background: #2271b1;
+  color: #ffffff;
+  padding: 6px 15px;
+  font-weight: 600;
+}
+.millipede-admin-notice .admin-button.dismiss-notice.btn-notice-dismiss {
+  color: #a4a4a7;
+  display: inline-block;
+  margin: 15px;
+}
+.millipede-admin-notice .admin-button.dismiss-notice.btn-notice-dismiss:hover {
+  color: #d63638;
+}
+.millipede-admin-notice .notice-text {
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 10px;
+  font-size: 16px;
+}
+.dashboard-about-millipede {
+  padding: 30px;
+  background: #fff;
+  box-sizing: border-box;
+  width: 98.5%;
+  margin: 20px 0 0 0;
+}
+.dashboard-about-millipede .half-col {
+  width: 50%;
+  display: inline-block;
+}
+
+.dashboard-about-millipede .featured-list {
+  display: flex;
+  grid-gap: 30px;
+}
+.dashboard-about-millipede .half-col ul ul {
+  margin: 10px 0 20px;
+  padding: 0 0 0 30px;
+}
+.dashboard-about-millipede .half-col ul ul li,
+.dashboard-about-millipede .half-col.pro-features li {
+  position: relative;
+}
+.dashboard-about-millipede .half-col ul ul li:before,
+.dashboard-about-millipede .half-col.pro-features li:before {
+  content: "\2713";
+  background: #bdbfc2;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: -20px;
+  top: 2px;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+  border-radius: 20px;
+  color: #fff;
+}
+.dashboard-about-millipede .half-col.pro-features li {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 10px 0;
+}
+.dashboard-about-millipede .half-col.pro-features li:before {
+  background: #04cf9c;
+}
+.dashboard-about-millipede .half-col.pro-features ul {
+  margin: 0;
+  padding: 0 0 0 18px;
+}
+
+.dashboard-about-millipede .upgrade-btn.button {
+  text-transform: uppercase;
+  background: #4261ee;
+  border-color: #4261ee;
+  color: #fff;
+  display: inline-block;
+  margin-top: 21px;
+  padding: 8px 17px;
+}
+.dashboard-about-millipede .upgrade-btn.button:hover {
+  background: #f39446;
+  border-color: #f39446;
+}
+.millipede-admin-notice .info-content h3,
+.dashboard-about-millipede h3,
+.millipede-admin-notice .info-content .millipede-required-plugin li h4,
+.dashboard-about-millipede .millipede-required-plugin li h4 {
+  margin: 0;
+}
+
+.millipede-admin-notice .info-content .millipede-required-plugin li,
+.dashboard-about-millipede .millipede-required-plugin li {
+  margin: 5px 0;
+}
+.millipede-admin-notice .info-content .millipede-required-plugin,
+.dashboard-about-millipede .millipede-required-plugin {
+  margin: 10px 0 30px;
+}
+.dashboard-about-millipede .millipede-baisc-guideline {
+  margin: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+.dashboard-about-millipede .millipede-baisc-guideline .featured-box {
+  padding: 5px 17px;
+  border: 1px solid #d7d4d4;
+  border-radius: 0;
+  width: 49%;
+  float: left;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+.dashboard-about-millipede h3.millipede-baisc-guideline-header {
+  width: 100%;
+  display: inline-block;
+  margin: 20px 0 0;
+}
+.dashboard-about-millipede .millipede-baisc-guideline .featured-box:nth-child(2n + 2) {
+  margin-left: 2%;
+}
+.dashboard-about-millipede .millipede-baisc-guideline .featured-box li strong {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+.dashboard-about-millipede h3 {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.dashboard-about-millipede h1 {
+  font-size: 20px;
+}
+.millipede-admin-notice {
+  display: flex;
+}
+.millipede-admin-notice .info-content {
+  width: 80%;
+}
+.millipede-admin-notice .info-content h3 {
+  margin-bottom: 14px;
+  line-height: 30px;
+  font-size: 20px;
+}
+.millipede-admin-notice .theme-hero-screens {
+  text-align: right;
+  width: 40%;
+}
+.millipede-admin-notice .theme-hero-screens img {
+  max-width: 400px;
+}
+.dashboard-about-millipede p {
+  font-size: 16px;
+}
+.millipede-admin-notice.notice.notice-info .info-content .admin-button.info-button.processing-spinner {
+  padding-right: 50px;
+  position: relative;
+}
+/*processing-spinner*/
+.millipede-admin-notice.notice.notice-info .info-content .admin-button.info-button.processing-spinner:before {
+  content: "";
+  right: 5px;
+  top: 5px;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border: 4px solid #574be8;
+  display: inline-block;
+  border-radius: 50%;
+  box-sizing: border-box;
+  animation: activatorLoader 1s ease-in infinite;
+}
+@keyframes activatorLoader {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+.installing-all-pluign.info-button {
+  background: #2271b1;
+  margin: 20px 0 40px;
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 12px;
+  font-size: 18px;
+}

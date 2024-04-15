@@ -1,0 +1,5 @@
+{
+	"plugins": [
+		[ "@automattic/babel-plugin-replace-textdomain", { "textdomain": "reviews-feed" } ]
+	]
+}
